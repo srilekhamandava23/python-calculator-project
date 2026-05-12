@@ -16,4 +16,4 @@ Sri Lekha
 
 ## Output Screenshot
 
-![Py-Calculator]output.png
+Py-Calculator.output.png
