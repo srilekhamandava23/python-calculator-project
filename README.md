@@ -14,8 +14,6 @@ This project is a beginner Python calculator application.
 ## Author
 Sri Lekha
 
-## Sample Run
+## Output Screenshot
 
-Enter first number: 10  
-Enter second number: 5  
-Sum is: 15
+![Program Output](output.png)
