@@ -1,2 +1,15 @@
-# python-calculator-project
-Beginner Python calculator project for practicing programming fundamentals.
+# Python Calculator Project
+
+This project is a beginner Python calculator application.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Technologies Used
+- Python
+
+## Author
+Sri Lekha
